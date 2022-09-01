@@ -1,13 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Seja em empreendimentos empresariais ou residenciais, os riscos à integridade e à segurança pessoal e patrimonial se tornaram ocorrências comuns em todo o Brasil. De acordo com os dados cedidos pela Secretaria de Segurança Pública do Estado de São Paulo, condomínios residencias sofreram maiores índices de invasão. Para se ter uma ideia, os números cresceram em 56% no período de 18 janeiro a 18 abril de 2018 se comparado ao mesmo período de 2017. Os índices elevados de criminalidade reforçam a necessidade de investir cada vez mais em recursos de segurança melhores e mais completos. Nesse sentido, uma das ferramentas mais indicadas para proteger o patrimônio são os sistemas de controle de acesso, uma solução segura e flexível que se adapta a diferentes necessidades. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A dificuldade em associar os visitantes, moradores e funcionários às necessidades de controle e segurança interna dos condomínios.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,28 +12,22 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Nesse sentido, o principal objetivo dos sistemas de controle de acesso é impedir a entrada de pessoas não autorizadas, afim de assegurar a segurança e garantir a integridade de pessoas e bens. O uso de sistemas de controle de acesso são cada vez mais comuns. E isso se explica, por sua capacidade de aliar alta eficiência, modernidade e simplicidade em uma solução integrada de segurança.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A usabilidade do trabalho consiste em aumentar a segurança do local. Com a implantação dessa solução, reduz o acesso não autorizado a empresa ou ao condomínio, garantindo a proteção do patrimônio e das pessoas. Todas as informações são cadastradas, registradas e armazenadas em um servidor. Assim, no caso de qualquer ocorrência, o sistema permite ter acesso a diferentes informações que colaboram para facilitar a identificação de possíveis brechas na segurança, ou visitantes suspeitos, cruzando horários de visitas à eventos
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+A quantidade de pessoas e empreendimentos a serem beneficiados pelas soluções são inúmeras, mas o publico alvo do trabalho consiste em empreendimentos, moradores e síndicos que buscam ter segurança como um diferencial para seu imóvel ou empreendimento. 
+Destina-se o público alvo pessoas que valorizam a segurança, normalmente pessoas com alto poder aquisitivo de 25 a 65 anos e que de preferência são mais conservadores. Assim como, donos de grandes empresas nas quais possuem um estoque/equipamentos de grande valor agregado. Ou seja, pessoas que não se importam em pagar um valor a mais pelo benefício associado. 
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
