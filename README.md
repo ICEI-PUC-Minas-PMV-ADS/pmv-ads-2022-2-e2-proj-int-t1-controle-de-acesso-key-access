@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# Key Acess
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`Segundo Semestre de 2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Descrição da Solução
+
+A aplicação será responsável por gerenciar o controle de acesso, permanência e saída de pessoas à empreendimentos. Por exemplo acesso de residente, visitante ou prestador de serviços em condomínios, empresas, entre outros. Com o objetivo de evitar o acesso de pessoas não-autorizadas e/ou não identificadas e trazer segurança ao usuário.
 
 ## Integrantes
 
 * Leonardo de Carvalho Ferreira
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Walber Gomes Soares 
+*  Raquel Lins da Mata
+* Juliana Machado Madureira
+* Vinicio Machado Muniz de Morais
+* Rayane Silva dos Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 
