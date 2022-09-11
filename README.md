@@ -58,3 +58,10 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+## Apresentação do problema e proposta de solução ;) 
+
+
+https://user-images.githubusercontent.com/103972585/189545912-87fcb503-8759-4a72-a1cb-2f446c507fb6.mp4
+
+
