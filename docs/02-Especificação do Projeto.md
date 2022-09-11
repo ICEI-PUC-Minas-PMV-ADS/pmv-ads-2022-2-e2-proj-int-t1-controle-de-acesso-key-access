@@ -224,7 +224,10 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
-![WhatsApp Image 2022-09-06 at 7 20 40 PM](https://user-images.githubusercontent.com/103972585/189232157-cdc30c1e-f08b-40cf-bf23-9585a85a9aed.jpeg)
+![WhatsApp Image 2022-09-10 at 11 09 41 AM](https://user-images.githubusercontent.com/103972585/189540069-5d82fc32-d27c-4f1d-9cb5-198d97f6a9d8.jpeg)
+
+-> O diagrama de casos de uso traz a função dos atores GERENTE e PORTEIRO. O GERENTE/ADMINISTRADOR/DONO do edíficio pode gerar o relatório de entrada e saída, controlar a entrada e saída, cadastrar edifícios, moradores e funcionários. Já o porteiro poderá realizar a entrada e saída de terceiros 
+
 
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
