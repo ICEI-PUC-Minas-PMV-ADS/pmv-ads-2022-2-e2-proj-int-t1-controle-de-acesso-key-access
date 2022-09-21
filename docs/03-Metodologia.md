@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nesta seção, apresentaremos a relação de ambiente de trabalho e as plataformas utilizadas, a gestão de código fonte e o gerenciamento do projeto. 
 
 ## Controle de Versão
 
@@ -26,7 +26,13 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+A ferramenta de gestão de projeto e versionamento escolhida, foi o
+`Gihub` e o `Git` por estarem mais familiarizados e por ser as mais utilizadas no mercado.
+
+As `issues` estão sendo gerenciadas pelo Scrum Master do projeto e o
+`Backlog`, está sendo gerenciado por PO e SM. As tarefas são distribuídas
+de acordo com as demandas discutidas nas reuniões de quinta com a orientadora, e demais desenvolvimentos haverá uma reunião extraordinária.
+
 
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
@@ -39,30 +45,32 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira <br>
+* *Scrum Master:* <br>
+* *Product Owner:* <br>
+* *Equipe de Desenvolvimento:* <br>
+*Equipe de Design:* <br>
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para organização e distribuição das tarefas do projeto, a equipe está
+utilizando o trello, separando as áreas de trabalho de acordo com as sprints a serem entregues. Dentro quadro possui as tarefas necessárias daquela etapa, assim como o responsável por ela. 
+
+* Backlog: que recebe as tarefas a serem trabalhadas e todas as
+atividades identificadas como tarefas no decorrer do projeto também devem
+ser incorporadas à lista.
+
+Já, nas quadros possuem a divisão: A fazer; em andamento e concluído. Onde será atualizado de acordo com o desenvolvimento das tarefas pelo grupo.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Visual Studio 2019
+- Trello 
+- Figma
+- Teams
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -70,8 +78,4 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
