@@ -47,9 +47,9 @@ de acordo com as demandas discutidas nas reuniões de quinta com a orientadora, 
 
 A equipe está organizada da seguinte maneira <br>
 * *Scrum Master:* <br>
-* *Product Owner:* <br>
-* *Equipe de Desenvolvimento:* <br>
-*Equipe de Design:* <br>
+* *Product Owner:*  Leonardo <br>
+* *Equipe de Desenvolvimento:* Raquel, Juliana, Rayane e Vinicio. <br>
+*Equipe de Design:* Walber <br>
 
 
 ### Processo
