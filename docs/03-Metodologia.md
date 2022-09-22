@@ -48,7 +48,7 @@ de acordo com as demandas discutidas nas reuniões de quinta com a orientadora, 
 A equipe está organizada da seguinte maneira <br>
 * *Scrum Master:* <br>
 * *Product Owner:*  Leonardo <br>
-* *Equipe de Desenvolvimento:* Raquel, Juliana, Rayane e Vinicio. <br>
+* *Equipe de Desenvolvimento:* Raquel, Juliana, Rayane, Vinicio, Walber, Leonardo. <br>
 *Equipe de Design:* Walber <br>
 
 
@@ -67,10 +67,10 @@ Já, nas quadros possuem a divisão: A fazer; em andamento e concluído. Onde se
 
 As ferramentas empregadas no projeto são:
 
-- Visual Studio 2019
+- Visual Studio Community 2019
 - Trello 
 - Figma
-- Teams
+- Microsoft Teams
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
