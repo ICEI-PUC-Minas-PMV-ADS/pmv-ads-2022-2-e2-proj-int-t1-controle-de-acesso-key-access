@@ -31,15 +31,8 @@ A ferramenta de gestão de projeto e versionamento escolhida, foi o
 
 As `issues` estão sendo gerenciadas pelo Scrum Master do projeto e o
 `Backlog`, está sendo gerenciado por PO e SM. As tarefas são distribuídas
-de acordo com as demandas discutidas nas reuniões de quinta com a orientadora, e demais desenvolvimentos haverá uma reunião extraordinária.
+de acordo com as demandas discutidas nas reuniões de quinta com a orientadora, e demais desenvolvimentos haverá uma reunião extraordinária na segunda-feira as 20hrs pelo teams. 
 
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
