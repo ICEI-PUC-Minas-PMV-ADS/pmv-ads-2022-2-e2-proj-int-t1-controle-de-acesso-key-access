@@ -62,10 +62,10 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br>  - Na página inicial - aba adicionar - clicar em "+ funcionário"  <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
 |Critério de Êxito | - O novo prestador de serviço foi criado com sucesso. |
 |  	|  	|
-| Caso de Teste 	| *  Apagar um morador/funcionário/visitante*	|
-|Requisito Associado | RF	- Deve permitir que o usuário apague um morador/funcionário/visitante. |
-| Objetivo do Teste 	| Verificar se o usuário consegue apagar um morador/funcionário/visitante. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial clicar em "morador/funcionário/visitante" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
+| Caso de Teste 	| *  Apagar um morador ou funcionário ou visitante*	|
+|Requisito Associado | RF	- Deve permitir que o usuário apague um morador ou funcionário ou visitante. |
+| Objetivo do Teste 	| Verificar se o usuário consegue apagar um morador ou funcionário ou visitante. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial clicar em "morador ou funcionário ou visitante" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
 |Critério de Êxito | - O contato foi apagado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| *  Navegadores*	|
