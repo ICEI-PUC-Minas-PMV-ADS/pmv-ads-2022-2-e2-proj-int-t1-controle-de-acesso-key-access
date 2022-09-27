@@ -42,13 +42,13 @@ Os requisitos para realização dos testes de software são:
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 
-|  	|  	|
+
 | Caso de Teste 	| *  Cadastrar um novo morador*	|
+|:---:	|:---:	|
 |Requisito Associado | RF- Deve permitir que o usuário cadastre um novo morador |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um novo morador. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br>  - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial - aba adicionar - clicar em "+ Morador" <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
 |Critério de Êxito | - O novo morador foi criado com sucesso. |
-
 |  	|  	|
 | Caso de Teste 	| *  Cadastrar um novo visitante*	|
 |Requisito Associado | RF- Deve permitir que o usuário cadastre um novo visitante, asssociando ao destino |
