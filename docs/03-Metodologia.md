@@ -29,7 +29,7 @@ de acordo com as demandas discutidas nas reuniões de quinta com a orientadora, 
 ### Divisão de Papéis
 
 A equipe está organizada da seguinte maneira <br>
-* *Scrum Master:* <br>
+* *Scrum Master:* Walber <br>
 * *Product Owner:*  Leonardo <br>
 * *Equipe de Desenvolvimento:* Raquel, Juliana, Rayane, Vinicio, Walber, Leonardo. <br>
 *Equipe de Design:* Walber <br>
