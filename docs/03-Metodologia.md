@@ -52,8 +52,8 @@ As ferramentas empregadas no projeto são:
 
 - Visual Studio Community 2019
 - [Trello - backlog](https://trello.com/b/orGe2GNu/backlog) 
-- [Trello - Sprint2] (https://trello.com/b/nLLKGBVl/sprint-etapa-2)
-- [Trello - Sprint 3] (https://trello.com/b/WvRzEAHv/sprint-etapa-3)
+- [Trello - Sprint] (https://trello.com/b/nLLKGBVl/sprint-etapa-2)
+- [Trello - Sprint] (https://trello.com/b/WvRzEAHv/sprint-etapa-3)
 - [Figma]  (https://www.figma.com/file/2tAisjotzxgqLsm2B2oeWb/Wireframe?node-id=0%3A1)
 - [Microsoft Teams] (https://teams.microsoft.com/l/channel/19%3a73f737b3aaa346f9a4e3e9a401457648%40thread.tacv2/Grupo%25205%2520-%2520Quinta%252021h30%2520-Controle%2520Acesso%2520Condom%25C3%25ADnio?groupId=4b320cea-c5c5-4c56-a163-6d1bcaa5ef3f&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161)
 
