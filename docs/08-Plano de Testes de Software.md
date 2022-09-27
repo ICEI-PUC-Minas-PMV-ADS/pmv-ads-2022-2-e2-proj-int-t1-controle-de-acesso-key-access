@@ -41,42 +41,35 @@ Os requisitos para realização dos testes de software são:
 * Conectividade de Internet para acesso às plataformas (APISs)
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
-| Caso de Teste 	| *  Cadastrar perfil* 	|
-|:---:	|:---:	|
-|	Requisito Associado 	| RF - O sistema permitirá que usuários se cadastrem |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na plataforma.|
-| Passos 	| - Acessar o navegador - Informar o endereço do site <br> - Clicar em "cadastrar" <br> - Preencher os campos obrigatórios (nome, CPF, senha) <br> - Clicar em "cadastrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| * Efetuar login*	|
-|Requisito Associado | RF	- O sistema permitirá que usuários efetuem o login |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+
 |  	|  	|
 | Caso de Teste 	| *  Cadastrar um novo morador*	|
 |Requisito Associado | RF- Deve permitir que o usuário cadastre um novo morador |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um novo morador. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Cadastrar" <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br>  - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial - aba adicionar - clicar em "+ Morador" <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
 |Critério de Êxito | - O novo morador foi criado com sucesso. |
+
 |  	|  	|
-| Caso de Teste 	| *  Apagar um morador*	|
-|Requisito Associado | RF	- Deve permitir que o usuário apague um morador. |
-| Objetivo do Teste 	| Verificar se o usuário consegue apagar um morador. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Moradores" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
+| Caso de Teste 	| *  Cadastrar um novo visitante*	|
+|Requisito Associado | RF- Deve permitir que o usuário cadastre um novo visitante, asssociando ao destino |
+| Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um novo visitante. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br>  - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br>  - Na página inicial - aba adicionar - clicar em "+ visitante" <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
+|Critério de Êxito | - O novo visitante foi criado com sucesso. |
+
+|  	|  	|
+| Caso de Teste 	| *  Cadastrar um novo funcionário*	|
+|Requisito Associado | RF- Deve permitir que o usuário cadastre um funcionário |
+| Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um funcionário|
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br>  - Na página inicial - aba adicionar - clicar em "+ funcionário"  <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
+|Critério de Êxito | - O novo prestador de serviço foi criado com sucesso. |
+
+|  	|  	|
+| Caso de Teste 	| *  Apagar um morador/funcionário/visitante*	|
+|Requisito Associado | RF	- Deve permitir que o usuário apague um morador/funcionário/visitante. |
+| Objetivo do Teste 	| Verificar se o usuário consegue apagar um morador/funcionário/visitante. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial clicar em "morador/funcionário/visitante" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
 |Critério de Êxito | - O contato foi apagado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| *  Responsividade*	|
-|Requisito Associado | RNF	Deve ser responsivo permitindo a visualização em qualquer dispositivo. |
-| Objetivo do Teste 	| Verificar se o usuário consegue visualizar a aplicação em qualquer dispositivo. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar a responsividade da aplicação <br> |
-|Critério de Êxito | - A aplicação está responsiva. |
-|  	|  	|
-| Caso de Teste 	| *  Design*	|
-|Requisito Associado | RNF	Deve ter um design simples e autoexplicativo. |
-| Objetivo do Teste 	| Verificar se o usuário consegue navegar pela aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar o design e a simplicidade da aplicação <br> |
-|Critério de Êxito | - A aplicação tem um design simples e autoexplicativo . |
+
 |  	|  	|
 | Caso de Teste 	| *  Navegadores*	|
 |Requisito Associado | RNF	Deve ser compatível com os principais navegadores do mercado. |
