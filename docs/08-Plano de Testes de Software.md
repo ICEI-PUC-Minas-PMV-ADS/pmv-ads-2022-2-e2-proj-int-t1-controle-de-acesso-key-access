@@ -65,7 +65,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Caso de Teste 	| *  Apagar um morador ou funcionário ou visitante*	|
 |Requisito Associado | RF	- Deve permitir que o usuário apague um morador ou funcionário ou visitante. |
 | Objetivo do Teste 	| Verificar se o usuário consegue apagar um morador ou funcionário ou visitante. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial clicar em "morador ou funcionário ou visitante" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial clicar em "morador ou funcionário ou visitante" <br> - Clicar em "Icone '-'" <br> - Clicar em "Confirmar"  |
 |Critério de Êxito | - O contato foi apagado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| *  Navegadores*	|
