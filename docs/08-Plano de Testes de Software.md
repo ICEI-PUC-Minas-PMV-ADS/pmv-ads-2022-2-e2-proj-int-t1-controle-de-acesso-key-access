@@ -79,7 +79,6 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br> -Na página inicial clicar em "morador ou funcionário ou visitante" <br> - Clicar no Icone " - " <br> - Clicar em "Confirmar"  |
 |Critério de Êxito | - O contato foi apagado com sucesso. |
 |  	|  	|
-
 | Caso de Teste 	| * Cadastrar Nova Sala ou Novo Edificio *	|
 |Requisito Associado | RF07 - O usuário poderá cadastrar apartamentos/salas do edifício.   |
 | Objetivo do Teste 	| |
@@ -97,8 +96,6 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Objetivo do Teste 	| |
 | Passos 	|  |
 |Critério de Êxito |  |
-|  	|  	|
-
 |  	|  	|
 | Caso de Teste 	| *  Navegadores*	|
 |Requisito Associado | RNF	Deve ser compatível com os principais navegadores do mercado. |
