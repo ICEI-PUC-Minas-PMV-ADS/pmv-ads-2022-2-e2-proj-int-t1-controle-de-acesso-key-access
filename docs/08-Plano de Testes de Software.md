@@ -81,21 +81,21 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |  	|  	|
 | Caso de Teste 	| * Cadastrar Nova Sala ou Novo Edificio *	|
 |Requisito Associado | RF07 - O usuário poderá cadastrar apartamentos/salas do edifício.   |
-| Objetivo do Teste 	| |
+| Objetivo do Teste 	| Conseguir cadastrar novas salas e apartamentos do edifício. |
 | Passos 	|  |
-|Critério de Êxito |  |
+|Critério de Êxito |  - O novo cadastro foi realizado com sucesso|
 |  	|  	|
 | Caso de Teste 	| * Novo tipo de usuário *	|
 |Requisito Associado | RF09- Sistema deve permitir cadastro de usuário com perfil diferente (Operação/Administração).  |
-| Objetivo do Teste 	| |
+| Objetivo do Teste 	| Conseguir garantir acesso de diferentes perfis|
 | Passos 	|  |
-|Critério de Êxito |  |
+|Critério de Êxito | - Criação de um usuário com o perfil de acesso diferente |
 |  	|  	|
 | Caso de Teste 	| * Relatório *	|
 |Requisito Associado | RF-10 O sistema deverá imprimir os dados do relatório em uma tabela para maior compreensão do usuário  |
-| Objetivo do Teste 	| |
+| Objetivo do Teste 	| Geração de relatórios para melhor controle de acesso.|
 | Passos 	|  |
-|Critério de Êxito |  |
+|Critério de Êxito |  - Relatório gerado com sucesso|
 |  	|  	|
 | Caso de Teste 	| *  Navegadores*	|
 |Requisito Associado | RNF	Deve ser compatível com os principais navegadores do mercado. |
