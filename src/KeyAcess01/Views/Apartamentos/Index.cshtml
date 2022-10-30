@@ -1,0 +1,41 @@
+﻿@model IEnumerable<KeyAcess01.Models.Apartamento>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Apartamentos</h2>
+
+<p>
+    <a class="btn btn-info" asp-action="Create">Add Novo Apartamento</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NmrApartamento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QtdMoradores)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NmrApartamento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdMoradores)
+            </td>
+            <td>
+                <a class="btn btn-dark" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
