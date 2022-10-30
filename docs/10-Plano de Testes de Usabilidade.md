@@ -39,7 +39,7 @@ Serão selecionados os usuários de acordo com as personas definidas na metodolo
 
 ### Procedimento de teste
 
-- Orientação sobre o teste: objetivo; garantia de anonimato; forma de observação (registro de áudio/vídeo/anotações);
+- Orientação sobre o teste: objetivo; garantia de anonimato; forma de observação;
 - Teste: cenários de tarefas, o que será medido;
 - Debriefing do participante: entrevista pós-teste e comentários gerais sobre o produto / preferências.
 
@@ -54,7 +54,7 @@ Os requisitos para realização dos testes são:
 
 O teste terá cinco participantes que irão avaliar o desempenho e a interação do site, de acordo com as necessidades que correspondem com a finalidade da aplicação e com sugestões de melhorias.
 
-Os participantes terão como responsabilidade, analisar da forma mais eficiente um conjunto de tarefas, a eles desempenhados e fornecer feedback sobre a usabilidade da aplicação. O acesso ao site será filmando a tela para garantir a possibilidade de medição do tempo gasto. 
+Os participantes terão como responsabilidade, analisar da forma mais eficiente um conjunto de tarefas a eles desempenhados, e fornecer feedback sobra a uabilidade da aplicação por meio de um formulário disponibilizado. 
 
 Para cada tarefa do participante é possível medir:
 
