@@ -6,4 +6,4 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 > **Links Úteis**:
 > - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
 
-Foi utilizado um formulário do Google para solidificação dos resultado. A análise das respostas se encontra [aqui](https://docs.google.com/forms/d/1QbcGRKzKl-40tLUAJrax3K4XmbEzVCrywvHTzeS2P94/viewanalytics)
+Foi utilizado um formulário do Google para solidificação dos resultado. A análise das respostas se encontra [aqui](https://docs.google.com/forms/d/1QbcGRKzKl-40tLUAJrax3K4XmbEzVCrywvHTzeS2P94/viewanalytics).
