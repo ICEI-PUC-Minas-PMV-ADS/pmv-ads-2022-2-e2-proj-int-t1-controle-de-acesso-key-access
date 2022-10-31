@@ -8,10 +8,27 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 Primeiramente o usuário precisará realizar o seu cadastro na plataforma Key Acess, serão necessárias algumas informações tais como CPF e senha.
 Logo em seguida já é possível cadastrar moradores do prédio de acordo com o seu apartamento.
+RF01 - Cadastrar um novo residente
+
+Deve permitir que o usuário cadastre um novo residente
+
+O usuário consegue cadastrar um novo residente?
+
+Sim, depois de logado no sistema, inserindo no menu Add residente os dados como: Nome, Telefone, CPF e Apartamento.
+Após inserir os dados e adicionar, o residente foi enviado para banco de dados.
 
 ## Cadastrar um novo visitante
 
-O usuário consegue obter sucesso em cadastrar um novo visitante, atrelando ele a um determinado apartamento e de acordo com os seus dados pessoais. 
+O usuário consegue obter sucesso em cadastrar um novo visitante, atrelando ele a um determinado apartamento e de acordo com os seus dados pessoais.
+
+RF02 - Cadastrar um novo visitante
+
+Deve permitir que o usuário cadastre um novo visitante, associando ao destino.
+
+O usuário consegue cadastrar um novo visitante?
+
+Sim, depois de logado no sistema, inserindo no menu Add visitante os dados como: Nome, Telefone, CPF e Apartamento a visitar, data e horário de entrada e saída.
+Após inserir os dados e identificar, o visitante foi enviado para banco de dados.
 
 ## Cadastrar um novo funcionário
 
