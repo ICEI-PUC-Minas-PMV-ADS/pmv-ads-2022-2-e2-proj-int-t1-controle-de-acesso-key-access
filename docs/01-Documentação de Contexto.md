@@ -5,32 +5,15 @@ Seja em empreendimentos empresariais ou residenciais, os riscos à integridade e
 ## Problema
 A dificuldade em associar os visitantes, moradores e funcionários às necessidades de controle e segurança interna dos condomínios.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Nesse sentido, o principal objetivo dos sistemas de controle de acesso é impedir a entrada de pessoas não autorizadas, afim de assegurar a segurança e garantir a integridade de pessoas e bens. O uso de sistemas de controle de acesso são cada vez mais comuns. E isso se explica, por sua capacidade de aliar alta eficiência, modernidade e simplicidade em uma solução integrada de segurança.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 A usabilidade do trabalho consiste em aumentar a segurança do local. Com a implantação dessa solução, reduz o acesso não autorizado a empresa ou ao condomínio, garantindo a proteção do patrimônio e das pessoas. Todas as informações são cadastradas, registradas e armazenadas em um servidor. Assim, no caso de qualquer ocorrência, o sistema permite ter acesso a diferentes informações que colaboram para facilitar a identificação de possíveis brechas na segurança, ou visitantes suspeitos, cruzando horários de visitas à eventos
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 A quantidade de pessoas e empreendimentos a serem beneficiados pelas soluções são inúmeras, mas o publico alvo do trabalho consiste em empreendimentos, moradores e síndicos que buscam ter segurança como um diferencial para seu imóvel ou empreendimento. 
 Destina-se o público alvo pessoas que valorizam a segurança, normalmente pessoas com alto poder aquisitivo de 25 a 65 anos e que de preferência são mais conservadores. Assim como, donos de grandes empresas nas quais possuem um estoque/equipamentos de grande valor agregado. Ou seja, pessoas que não se importam em pagar um valor a mais pelo benefício associado. 
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
