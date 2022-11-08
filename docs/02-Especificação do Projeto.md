@@ -160,11 +160,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| A aplicação deverá permitir o usuário fazer login  | ALTA | 
 |RF-005| Será possível cadastrar restrição de determinados visitantes  | MEDIA |
 |RF-006| O usuário poderá cadastrar apartamentos/salas do edifício.  | ALTA | 
-|RF-007| O usuário poderá incluir no cadastro de visitante qual apartamento ou espaço será visitado.  | ALTA |
+|RF-007| O usuário poderá incluir no cadastro de visitante qual apartamento será visitado.  | ALTA |
 |RF-008| Sistema deve permitir cadastro de usuário com perfil diferente (Operação/Administração)  | BAIXA | 
-|RF-009| Sistema deve apresentar a relação de pessoas que residem no apto ou sala, para endereçar o visitante ao visitado | MÉDIA |
-|RF-010| O sistema deverá permitir o cadastro dos Edifícios que irão utilizar a solução | BAIXA | 
-|RF-011|O sistema deverá imprimir os dados do relatório em uma tabela para maior compreensão do usuário   | MÉDIA |
+|RF-009| Sistema deve apresentar a relação de pessoas que residem no apto, para endereçar o visitante ao visitado | MÉDIA |
+|RF-010| O sistema deverá imprimir os dados em um relatório a relação entre visitantes e apartamentos visitados maior compreensão do usuário   | MÉDIA |
 
 ### Requisitos não Funcionais
 
