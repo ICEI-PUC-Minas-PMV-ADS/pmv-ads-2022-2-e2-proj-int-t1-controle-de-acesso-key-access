@@ -19,6 +19,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |Requisito Associado | RF03, RF08 e RF09 - Deve permitir que o usuário cadastre um novo visitante, asssociando ao destino |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um novo visitante. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br>  - Preencher o campo de usuário <br> - Preencher o campo da senha <br> - Clicar em "Entrar" <br>  - No menu - Clicar em  "Add Morador - Visitate - Apt" <br> - clicar em "+ adicionar visitante" <br> - Preencher os campos necessários <br> - Clicar em "Identificar" |
+|Critério de Êxito | - O usuário conseguir cadastrar novo visitante. |
 |  	|  	|
 | Caso de Teste 	| * Cadastrar um novo funcionário*	|
 |Requisito Associado | RF04- Deve permitir que o usuário cadastre um funcionário |
