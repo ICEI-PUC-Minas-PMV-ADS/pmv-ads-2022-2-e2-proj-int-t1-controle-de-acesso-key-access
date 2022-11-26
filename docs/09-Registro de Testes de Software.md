@@ -65,8 +65,13 @@ O projeto esta de acordo com o planejamento da disciplina, acredita-se que ate a
 
 O que podemos observar no teste de software
 cadastrar um novo morador - usuário conseguiu cadastrar novos moradores e maneira fácil e intuitiva, não apresentando dificuldade em manusear a ferramenta 
+
 cadastrar um novo visitante - foi possível cadastrar um novo visitante, mas percebe-se a necessidade de fazer alteração na hora de inserir o horário de saída do visitante - para que se comporte igual ao horário de entrada
+
 usuário conseguir efetuar o login - pendente desenvolvimento do grupo
+
 cadastrar restrição aos visitantes - pendente desenvolvimento do grupo
+
 consultar o apto - conseguiu fazer a consultar o apartamento e puxar todas as informações referentes ao mesmo, tanto para moradores como para apartamentos.
+
 navegadores - conseguiu-se utilizar o navegador sem nenhum problema
