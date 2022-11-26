@@ -1,5 +1,6 @@
 # Registro de Testes de Software
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t1-controle-de-acesso-key-access/blob/main/Untitled.mp4
 
 ## Deve permitir que o usuário cadastre um novo morador
 
@@ -52,16 +53,6 @@ O projeto rodou em diferentes navegadores e os mais usuais, como por exemplo Goo
 ## Avaliação 
 
 O projeto esta de acordo com o planejamento da disciplina, acredita-se que ate a última todos os requistos e funcionalidades serão entregues de acordo com o que foi posposto nos requisitos. 
-
-
-
-
-
-
-# Registro de Testes de Software
-
-
-## Avaliação
 
 O que podemos observar no teste de software
 cadastrar um novo morador - usuário conseguiu cadastrar novos moradores e maneira fácil e intuitiva, não apresentando dificuldade em manusear a ferramenta 
