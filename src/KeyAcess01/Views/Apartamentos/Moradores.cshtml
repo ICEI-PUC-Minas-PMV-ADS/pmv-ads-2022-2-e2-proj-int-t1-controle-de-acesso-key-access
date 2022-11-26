@@ -1,0 +1,45 @@
+﻿@model KeyAcess01.Models.Apartamento
+
+@{
+    ViewData["Title"] = "Moradores";
+}
+
+<h1>Moradores</h1>
+
+<div>
+    <h4>Apartamento</h4>
+    <hr />   <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nome
+                </th>
+                <th>
+                    CPF
+                </th>
+                <th>
+                    Telefone
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Residentes)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cpf)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Telefone)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>

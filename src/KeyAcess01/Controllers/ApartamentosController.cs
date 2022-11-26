@@ -60,6 +60,24 @@ namespace KeyAcess01.Controllers
             return View(apartamento);
         }
 
+        public async Task<IActionResult> Moradores(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var apartamento = await _context.Apartamentos
+            .Include(t => t.Residentes)
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (apartamento == null)
+            {
+                return NotFound();
+            }
+
+            return View(apartamento);
+        }
+
         // GET: Apartamentos/Create
         public IActionResult Create()
         {
