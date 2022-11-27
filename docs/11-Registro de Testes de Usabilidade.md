@@ -1,12 +1,14 @@
 # Registro de Testes de Usabilidade
 
-Foi utilizado um formulário do Google para solidificação dos resultado. A análise das respostas se encontra [aqui](https://docs.google.com/forms/d/1QbcGRKzKl-40tLUAJrax3K4XmbEzVCrywvHTzeS2P94/viewanalytics).
+
+
 
 A partir dos dados obtidos com o teste realizado por 5 participantes, foi possível identificar que:
 
-- Um participante teve problemas para acessar o site, tal fato se deve, provalvemente, ao navegador e a versão utilizada.
-- Parte deles tiveram problemas para a identificação e a compreensão das funções da ferramenta, o que os tirou mais tempo para realizar a tarefa.
-- Parte deles acharam que gastou certo tempo para realizar determinada tarefa.
-- Todos concordaram que a ferramenta atende suas necessidades.
+- A forma que os elementos estão dispostos na página inicial deve melhorar.
+- É necessária a inclusão de botão no final das abas "Apartamento","Residentes" e "Visitantes" que  redirecione o usário a tela inicial da aplicação.
+- É facil para o usuário identicar onde realizar as tarefas de: Adicionar apartamento, adicionar residente e adicionar visitante.
+- Ao primeiro contato, é díicil para o usuário identicar a função de relatórios de moradores e vistantes de determinado apartamento. 
+- As cores dos botões que permitem ao usuário acessar o relatório moradores e vistantes devem serem mudados, com o objetivo de se diferencias das outras funções com editar, detalhar e excluir determinado apartamento.
 
-Assim, concluimos que é necessária a inclusão de textos para direcionar os usuários e corrigir erros de direcionamento e compreensão em processos não conclusivos.
+Assim, concluimos que é necessária a inclusão e modificação de textos e elementos visuais para direcionar os usuários, corrigindo erros de direcionamento e melhorando compreensão dos processos da aplicação. 
