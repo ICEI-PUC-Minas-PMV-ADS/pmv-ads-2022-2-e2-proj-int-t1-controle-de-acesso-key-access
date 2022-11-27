@@ -154,16 +154,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir o administrador visualizar todas as visitas no apartamento    | ALTA |
-|RF-002| A aplicação deve permitir o usuário cadastrar novos moradores correlacionando com o seu devido apartamento  | ALTA | 
-|RF-003| O usuário poderá visualizar quantos moradores residem em cada apartamento    | ALTA |
+|RF-001| O site deve permitir que o usuário cadastre um novo morador | ALTA |
+|RF-002| A aplicação deve permitir associar moradores com o seu devido apartamento  | ALTA | 
+|RF-003| Deve permitir que o usuário cadastre um novo visitante   | ALTA |
 |RF-004| A aplicação deverá permitir o usuário fazer login  | ALTA | 
 |RF-005| Será possível cadastrar restrição de determinados visitantes  | MEDIA |
-|RF-006| O usuário poderá cadastrar apartamentos/salas do edifício.  | ALTA | 
-|RF-007| O usuário poderá incluir no cadastro de visitante qual apartamento será visitado.  | ALTA |
-|RF-008| Sistema deve permitir cadastro de usuário com perfil diferente (Operação/Administração)  | BAIXA | 
-|RF-009| Sistema deve apresentar a relação de pessoas que residem no apto, para endereçar o visitante ao visitado | MÉDIA |
-|RF-010| O sistema deverá imprimir os dados em um relatório a relação entre visitantes e apartamentos visitados maior compreensão do usuário   | MÉDIA |
+|RF-006| O usuário poderá visualizar quantos moradores residem em cada apartamento | ALTA | 
+|RF-007| A aplicação deve permitir associar visitantes com o destino | BAIXA | 
+|RF-008| Sistema deve apresentar a relação de pessoas que estão visitando o apartamento | MÉDIA |
+|RF-009| O sistema deverá imprimir os dados do relatório em uma tabela para maior compreensão do usuário | MÉDIA |
+
 
 ### Requisitos não Funcionais
 
