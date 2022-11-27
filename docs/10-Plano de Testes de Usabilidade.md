@@ -54,7 +54,7 @@ Os requisitos para realização dos testes são:
 
 O teste terá cinco participantes que irão avaliar o desempenho e a interação do site, de acordo com as necessidades que correspondem com a finalidade da aplicação e com sugestões de melhorias.
 
-Os participantes terão como responsabilidade, analisar da forma mais eficiente um conjunto de tarefas por eles desempenhados, e fornecer um feedback sobre a usabilidade da aplicação por meio de um [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfoX4vqLAvdFqND9uIVRJ3qldOIx68zuOSreBURVwmIXOD4nQ/viewform) que será disponibilizado ao final do teste.
+Os participantes terão como responsabilidade, analisar da forma mais eficiente um conjunto de tarefas por eles desempenhados, e fornecer um feedback sobre a usabilidade da aplicação. A tela será gravada durante a execução das tarefas. 
 
 Para cada tarefa do participante é possível medir:
 
