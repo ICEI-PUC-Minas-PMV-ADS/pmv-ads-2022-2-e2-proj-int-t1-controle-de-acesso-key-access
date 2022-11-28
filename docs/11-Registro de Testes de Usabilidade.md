@@ -12,4 +12,4 @@ A partir dos dados obtidos com o teste realizado por 5 participantes, foi possí
 - Ao primeiro contato, é díicil para o usuário identicar a função de relatórios de moradores e vistantes de determinado apartamento. 
 - As cores dos botões que permitem ao usuário acessar o relatório moradores e vistantes devem serem mudados, com o objetivo de se diferencias das outras funções com editar, detalhar e excluir determinado apartamento.
 
-Assim, concluimos que é necessária a inclusão e modificação de textos e elementos visuais para direcionar os usuários, corrigindo erros de direcionamento e melhorando compreensão dos processos da aplicação. 
+Assim, concluimos que é necessária a inclusão e modificação de textos e elementos visuais para direcionar os usuários, corrigindo erros de direcionamento, e assim melhorando a compreensão dos processos da aplicação. 
