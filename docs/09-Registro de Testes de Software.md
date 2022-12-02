@@ -1,6 +1,7 @@
 # Registro de Testes de Software
 
-![Teste de Software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t1-controle-de-acesso-key-access/blob/main/Untitled.mp4)
+https://user-images.githubusercontent.com/103972585/205192217-570d3483-92ff-4cdc-ae47-245953f670b8.mp4
+
 
 ## Deve permitir que o usuário cadastre um novo morador
 
