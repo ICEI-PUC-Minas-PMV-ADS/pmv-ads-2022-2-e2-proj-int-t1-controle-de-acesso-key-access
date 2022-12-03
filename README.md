@@ -14,7 +14,6 @@ A aplicação será responsável por gerenciar o controle de acesso, permanênci
 
 * Leonardo de Carvalho Ferreira
 * Walber Gomes Soares 
-*  Raquel Lins da Mata
 * Juliana Machado Madureira
 * Vinicio Machado Muniz de Morais
 * Rayane Silva dos Santos
@@ -47,6 +46,8 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
 <li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/10-Relatório Final Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
+<li><a href="docs/11-Relatório Final Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
