@@ -154,16 +154,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir o administrador visualizar todas as visitas no prédio    | ALTA |
-|RF-002| A aplicação deve permitir o usuário cadastrar novos moradores correlacionando com o seu devido apartamento  | ALTA | 
-|RF-003| O usuário poderá visualizar quantos moradores residem em cada apartamento    | ALTA |
+|RF-001| O site deve permitir que o usuário cadastre um novo morador | ALTA |
+|RF-002| A aplicação deve permitir associar moradores com o seu devido apartamento  | ALTA | 
+|RF-003| Deve permitir que o usuário cadastre um novo visitante   | ALTA |
 |RF-004| A aplicação deverá permitir o usuário fazer login  | ALTA | 
 |RF-005| Será possível cadastrar restrição de determinados visitantes  | MEDIA |
-|RF-006| O usuário poderá cadastrar apartamentos/salas do edifício.  | ALTA | 
-|RF-007| O usuário poderá incluir no cadastro de visitante qual apartamento será visitado.  | ALTA |
-|RF-008| Sistema deve permitir cadastro de usuário com perfil diferente (Operação/Administração)  | BAIXA | 
-|RF-009| Sistema deve apresentar a relação de pessoas que residem no apto, para endereçar o visitante ao visitado | MÉDIA |
-|RF-010| O sistema deverá imprimir os dados em um relatório a relação entre visitantes e apartamentos visitados maior compreensão do usuário   | MÉDIA |
+|RF-006| O usuário poderá visualizar quantos moradores residem em cada apartamento | ALTA | 
+|RF-007| A aplicação deve permitir associar visitantes com o destino | BAIXA | 
+|RF-008| Sistema deve apresentar a relação de pessoas que estão visitando o apartamento | MÉDIA |
+|RF-009| O sistema deverá imprimir os dados do relatório em uma tabela para maior compreensão do usuário | MÉDIA |
+
 
 ### Requisitos não Funcionais
 
@@ -175,19 +175,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve ser intuitivo, de fácil aprendizagem.	|  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
