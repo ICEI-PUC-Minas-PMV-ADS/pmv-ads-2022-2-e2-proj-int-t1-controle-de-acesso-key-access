@@ -1,26 +1,58 @@
-﻿body {
-    background: #1b2224;
+﻿html, body {
+    height: 100%;
 }
 
-.login-card{
+@keyframes pan {
+    100% {
+        background-position: 15% 50%;
+    }
+}
+
+body {
+    display: grid;
+    place-items: center;
+    margin: 0;
+    padding: 0 24px;
+    background-image: url("../assets/bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: pan 6s infinite alternate linear;
+}
+
+
+.login-card {
     width: 500px;
     margin-left: auto;
     margin-right: auto;
-    padding: 70px, 30px, 44px;
+    padding: 90px 10px;
     border-radius: 24px;
-    background: #ffffff;
+    background: rgba(225, 225, 225, 0.7);
     text-align: center;
 }
 
-.login-card > h2 {
+    .login-card > h2 {
         margin: 0 0 12px;
         font-size: 36px;
         font-weight: 600;
     }
 
-.login-card > h3 {
-     margin: 0 0 30px;
-     font-weight: 500;
-     font-size: 16px;
-     color: rgba(0, 0, 0, 0.38)
+    .login-card > h3 {
+        margin: 0 0 30px;
+        font-weight: 500;
+        font-size: 16px;
+        color: rgba(0, 0, 0, 0.38)
     }
+
+    .login-card > ul {
+        margin-top: 50px
+    }
+
+
+    .login-card ul li {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+        .login-card ul li:hover {
+            transform: scale(1.3)
+        }
