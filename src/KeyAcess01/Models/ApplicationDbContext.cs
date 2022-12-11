@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json.Linq;
+using KeyAcess01.Models;
 
 namespace KeyAcess01.Models
 {
@@ -13,5 +14,6 @@ namespace KeyAcess01.Models
         public DbSet<Apartamento> Apartamentos { get; set; }
         public DbSet<Residente> Residentes { get; set; }
         public DbSet<Visitante> Visitantes { get; set; }
+        public DbSet<BloquearVisitante> BloquearVisitante { get; set; }
     }  
 }

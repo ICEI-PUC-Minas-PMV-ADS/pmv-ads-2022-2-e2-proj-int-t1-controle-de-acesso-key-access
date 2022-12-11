@@ -9,23 +9,23 @@ using KeyAcess01.Models;
 
 namespace KeyAcess01.Controllers
 {
-    public class VisitantesController : Controller
+    public class BloquearVisitantesController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public VisitantesController(ApplicationDbContext context)
+        public BloquearVisitantesController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Visitantes
+        // GET: BloquearVisitantes
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Visitantes.Include(v => v.Apartamento);
+            var applicationDbContext = _context.BloquearVisitante.Include(b => b.Apartamento);
             return View(await applicationDbContext.ToListAsync());
         }
 
-        // GET: Visitantes/Details/5
+        // GET: BloquearVisitantes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -33,53 +33,42 @@ namespace KeyAcess01.Controllers
                 return NotFound();
             }
 
-            var visitante = await _context.Visitantes
-                .Include(v => v.Apartamento)
+            var bloquearVisitante = await _context.BloquearVisitante
+                .Include(b => b.Apartamento)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (visitante == null)
+            if (bloquearVisitante == null)
             {
                 return NotFound();
             }
 
-            return View(visitante);
+            return View(bloquearVisitante);
         }
 
-        // GET: Visitantes/Create
+        // GET: BloquearVisitantes/Create
         public IActionResult Create()
         {
             ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento");
             return View();
         }
 
-        // POST: Visitantes/Create
+        // POST: BloquearVisitantes/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,ApartamentoId,Nome,Cpf,Telefone,HrrEnt,HrrSaid")] Visitante visitante, string Cpf)
+        public async Task<IActionResult> Create([Bind("Id,ApartamentoId,Nome,Cpf")] BloquearVisitante bloquearVisitante)
         {
-            var bloquearVisitante = await _context.BloquearVisitante
-                .FirstOrDefaultAsync(m => m.Cpf == Cpf);
-
-            if (bloquearVisitante == null)
+            if (ModelState.IsValid)
             {
-                if (ModelState.IsValid)
-                {
-                    _context.Add(visitante);
-                    await _context.SaveChangesAsync();
-                    return RedirectToAction(nameof(Index));
-                }
-            }
-            else
-            {
+                _context.Add(bloquearVisitante);
+                await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-
-            ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento", visitante.ApartamentoId);
-            return View(visitante);
+            ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento", bloquearVisitante.ApartamentoId);
+            return View(bloquearVisitante);
         }
 
-        // GET: Visitantes/Edit/5
+        // GET: BloquearVisitantes/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -87,23 +76,23 @@ namespace KeyAcess01.Controllers
                 return NotFound();
             }
 
-            var visitante = await _context.Visitantes.FindAsync(id);
-            if (visitante == null)
+            var bloquearVisitante = await _context.BloquearVisitante.FindAsync(id);
+            if (bloquearVisitante == null)
             {
                 return NotFound();
             }
-            ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento", visitante.ApartamentoId);
-            return View(visitante);
+            ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento", bloquearVisitante.ApartamentoId);
+            return View(bloquearVisitante);
         }
 
-        // POST: Visitantes/Edit/5
+        // POST: BloquearVisitantes/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,ApartamentoId,Nome,Cpf,Telefone,HrrEnt,HrrSaid")] Visitante visitante)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,ApartamentoId,Nome,Cpf")] BloquearVisitante bloquearVisitante)
         {
-            if (id != visitante.Id)
+            if (id != bloquearVisitante.Id)
             {
                 return NotFound();
             }
@@ -112,12 +101,12 @@ namespace KeyAcess01.Controllers
             {
                 try
                 {
-                    _context.Update(visitante);
+                    _context.Update(bloquearVisitante);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!VisitanteExists(visitante.Id))
+                    if (!BloquearVisitanteExists(bloquearVisitante.Id))
                     {
                         return NotFound();
                     }
@@ -128,11 +117,11 @@ namespace KeyAcess01.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento", visitante.ApartamentoId);
-            return View(visitante);
+            ViewData["ApartamentoId"] = new SelectList(_context.Apartamentos, "Id", "NmrApartamento", bloquearVisitante.ApartamentoId);
+            return View(bloquearVisitante);
         }
 
-        // GET: Visitantes/Delete/5
+        // GET: BloquearVisitantes/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -140,31 +129,31 @@ namespace KeyAcess01.Controllers
                 return NotFound();
             }
 
-            var visitante = await _context.Visitantes
-                .Include(v => v.Apartamento)
+            var bloquearVisitante = await _context.BloquearVisitante
+                .Include(b => b.Apartamento)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (visitante == null)
+            if (bloquearVisitante == null)
             {
                 return NotFound();
             }
 
-            return View(visitante);
+            return View(bloquearVisitante);
         }
 
-        // POST: Visitantes/Delete/5
+        // POST: BloquearVisitantes/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var visitante = await _context.Visitantes.FindAsync(id);
-            _context.Visitantes.Remove(visitante);
+            var bloquearVisitante = await _context.BloquearVisitante.FindAsync(id);
+            _context.BloquearVisitante.Remove(bloquearVisitante);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool VisitanteExists(int id)
+        private bool BloquearVisitanteExists(int id)
         {
-            return _context.Visitantes.Any(e => e.Id == id);
+            return _context.BloquearVisitante.Any(e => e.Id == id);
         }
     }
 }
