@@ -7,7 +7,7 @@ A partir desse teste final de usabilidade, pode-se observar que os empecilhos ob
 
 #### Alguns pontos finais foram obervados.
 
-- Botão 'inútil de detalhes
+- Botão "inútil" de detalhes
 - Botão de 'Voltar para a Home' poderia ter sido modificado para algo mais claro e simples. 
 - Abreviaturas. Para alguns usuários pode mão ficar claro.
 - Botão do confirmação de 'Deletar' poderia ter ficado centralizado
