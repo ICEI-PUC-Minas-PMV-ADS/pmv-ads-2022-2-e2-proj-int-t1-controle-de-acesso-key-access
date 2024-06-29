@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: Key Acess
+authors:
+  - family-names: Gomes Soares
+    given-names: Walber
+  - family-names: Machado Madureira
+    given-names: Juliana
+  - family-names: Silva dos Santos
+    given-names: Rayane 
+  - family-names: de Carvalho Ferreira
+    given-names: Leonardo 
+  - family-names: Machado Muniz de Morais
+    given-names: Vinicio 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro da Mota
+    given-names: Rosilane
+keywords:
+  - Segurança
+  - Gerenciamento
+  - Acesso
+  - Residências
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t1-controle-de-acesso-key-access
+version: 1.0.0
+date-released: 2022-12-11
